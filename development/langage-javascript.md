@@ -6,32 +6,37 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ✔️
+- les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
-```javascript
-(e) => mc2;
+#### Fonction retournant "hello" dans la console
+```JS
+const Hello = () => {
+    console.log("hello");
+};
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/iStyyx/HACKATHON-28h_Lyrics-break)
 
-Description :
+Description : application construite en 28h lors du hackathon de novembre 2021 de la WCS (groupe de 5) sous le thème de la musique.
+1er prix remporté (Remote / Toulouse)
+Techno utilisées : Php, Javascript, Html, Css, Twig
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ✔️
 
-[lien du projet](...)
+[lien du projet](davymiklovicova.com)
 
-Description :
+Description : 
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ❌
 
 Description :
 
@@ -44,20 +49,18 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌
 
-Description:
+Description: certaines utilisations de fonctions (map par exemple)
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+- action 1 : pratiquer et ça viendra ❌
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌
 

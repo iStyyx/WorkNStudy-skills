@@ -6,28 +6,30 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Le rôle de l'OWASP ❌ / ✔️
-- Les injections SQL ❌ / ✔️
-- XSS ❌ / ✔️
-- CRSF ❌ / ✔️
+- Le rôle de l'OWASP ❌
+- Les injections SQL ✔️
+- XSS ✔️
+- CRSF ✔️
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+injection sql dans un champ de connexion mot de passe : 'or 1=1;'
+
+### Utilisation dans un projet ❌
 
 [lien github](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
 Description :
 
@@ -40,19 +42,17 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ✔️
 
 Description:
 
 Plan d'action : (à valider par le formateur)
 
 - action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌
